@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{30FFC717-7B66-8D84-4355-FE657E6E3B00}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LoseCollider.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Brick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="12" Column="10" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="19" Column="9" />
+      <File FileName="Assets/Scripts/MusicPlayer.cs" Line="14" Column="13" />
+      <File FileName="Assets/Scripts/LoseCollider.cs" Line="9" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
